@@ -1,0 +1,10 @@
+.container {
+  padding-top: 0.5rem;
+  padding-bottom: 1.5rem;
+  max-width: 1200px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+/*# sourceMappingURL=cards.module.css.map */

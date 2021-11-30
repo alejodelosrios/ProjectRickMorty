@@ -1,0 +1,44 @@
+.navbar {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  padding: 1.5rem 0;
+  gap: 2rem;
+}
+.logo {
+  color: #fff;
+}
+form {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+input {
+  width: 50%;
+  background: linear-gradient(45deg, #1c1d21, #17181c);
+  border: 0;
+  outline: 0;
+  padding: 0.5rem 1.5rem;
+  border-radius: 5px;
+  color: #929292;
+  box-shadow: inset 3px 3px 6px #000104, inset -3px -3px 6px #34352a;
+}
+input::-webkit-input-placeholder {
+  color: #fff;
+}
+input:-ms-input-placeholder {
+  color: #fff;
+}
+input::placeholder {
+  color: #fff;
+}
+.primaryBtn {
+  border: 0;
+  outline: 0;
+  color: #929292;
+  background: #1a1b1f;
+  padding: 0.5rem 1.5rem;
+  border-radius: 5px;
+  box-shadow: 4px 4px 4px #34352a, -6px -6px 6px #000104;
+}
+/*# sourceMappingURL=nav.module.css.map */
